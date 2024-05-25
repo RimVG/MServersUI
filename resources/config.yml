@@ -1,13 +1,21 @@
+ #// Edit This Section And Don't Delete The Most Important Ones! //#
+ 
+#// MServerUI Build: https://poggit.pmmp.io/ci/RimVG/MServersUI/~
+#// Developer Github: https://github.com/RimVG //
+
 msi:
-  title: "[ §6§l MServerUI§r ]"
+  title: "[ §6§lMServerUI§r ]"
   content: "Press Some Buttons, edit in plugin_data, then resource plugin.yml"
   buttons:
-    - name: "content 1"
-      command: ""
+    - name: "§c§lINFORMATION§r"
+      command: "info"
       icon: ""
-    - name: "content 2"
-      command: ""
+    - name: "§c§lSHOP§r"
+      command: "shop"
       icon: ""
-    - name: "content 3"
-      command: ""
+    - name: "§c§lWARP§r"
+      command: "warp"
+      icon: ""
+    - name: "§c§lHOME§r"
+      command: "home"
       icon: ""
