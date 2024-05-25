@@ -6,10 +6,10 @@ api:
 - 5.0.0
 main: RimVG\PluginDev\Main
 commands:
-  msi:
+  ms:
     description: MServerUI plugin command GUI created by [ RimVG ]
-    permission: msi.ui
+    permission: ms.ui
 permissions:
-  msi.ui:
+  ms.ui:
     description: Allow player use cmd
     default: true
